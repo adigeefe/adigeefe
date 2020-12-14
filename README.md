@@ -1,7 +1,8 @@
+<!--
 ### Hi there 👋
 ![My github stats](https://github-readme-stats.vercel.app/api?username=adigeefe&show_icons=true&theme=gruvbox)
 ![](https://komarev.com/ghpvc/?username=adigeefe&color=green)
-<!--
+
 **adigeefe/adigeefe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,7 +22,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi There 👋, I'm adigeefe</h1>
 <h3 align="center">Crazy Guy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adigeefe&label=Profile%20views&color=0e75b6&style=flat" alt="adigeefe" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adigeefe&label=Profile%20views&color=green&style=flat" alt="adigeefe" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/adigeefe"><img src="https://github-profile-trophy.vercel.app/?username=adigeefe" alt="adigeefe" /></a> </p> -->
 - 🔭 I’m currently working on [Ctfastv2](https://github.com/adigeefe/ctfastv2)
