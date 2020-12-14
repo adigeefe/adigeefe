@@ -39,7 +39,9 @@ Here are some ideas to get you started:
 
 ********************************
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adigeefe&langs_count=8" /></p>
+<p align="center">
+ &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adigeefe&langs_count=8" />
+</p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adigeefe&show_icons=true&theme=gruvbox&locale=en" alt="adigeefe" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adigeefe&show_icons=true&theme=gruvbox&locale=en" alt="adigeefe" /></p>
