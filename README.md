@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ********************************
 <h1 align="center">Hi There 👋, I'm adigeefe</h1>
-<h3 align="center">Crazy Guy</h3>
+<h3 align="center">St</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adigeefe&label=Profile%20views&color=green&style=flat" alt="adigeefe" /> </p>
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ********************************
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adigeefe&langs_count=8)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adigeefe&langs_count=8" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adigeefe&show_icons=true&theme=gruvbox&locale=en" alt="adigeefe" /></p>
