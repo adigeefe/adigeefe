@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ********************************
 <h1 align="center">Hi There 👋, I'm adigeefe</h1>
-<h3 align="center">St</h3>
+<h3 align="center">Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adigeefe&label=Profile%20views&color=green&style=flat" alt="adigeefe" /> </p>
 
