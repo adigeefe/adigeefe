@@ -2,7 +2,8 @@
 ### Hi there 👋
 ![My github stats](https://github-readme-stats.vercel.app/api?username=adigeefe&show_icons=true&theme=gruvbox)
 ![](https://komarev.com/ghpvc/?username=adigeefe&color=green)
-<script src="https://tryhackme.com/badge/119650"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/adigeefe.png" alt="TryHackMe">
+
 
 
 
