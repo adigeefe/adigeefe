@@ -2,6 +2,9 @@
 ### Hi there 👋
 ![My github stats](https://github-readme-stats.vercel.app/api?username=adigeefe&show_icons=true&theme=gruvbox)
 ![](https://komarev.com/ghpvc/?username=adigeefe&color=green)
+<script src="https://tryhackme.com/badge/119650"></script>
+
+
 
 **adigeefe/adigeefe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
