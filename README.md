@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adigeefe&label=Profile%20views&color=green&style=flat" alt="adigeefe" /> </p>
 <a align="center">
-<script src="https://tryhackme.com/badge/119650"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/adigeefe.png" alt="TryHackMe">
 </a>
 
 
