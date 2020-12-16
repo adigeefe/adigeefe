@@ -27,15 +27,10 @@ Here are some ideas to get you started:
 <h3 align="center">Student</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adigeefe&label=Profile%20views&color=green&style=flat" alt="adigeefe" /> </p>
-<a>
-  <a align="center" href="https://tryhackme.com/p/adigeefe">
-  <img align="center" width="300px" src="https://assets.tryhackme.com/img/THMlogo.png" title="hover text">
+  <a align="vcenter" href="https://tryhackme.com/p/adigeefe">
+
+<div style="text-align:center"><img width="150px" src="https://assets.tryhackme.com/img/THMlogo.png" /></div>
    </a>
-<img src="" alt="TryHackMe">
-https://assets.tryhackme.com/img/THMlogo.png
-[Ctfastv2](https://assets.tryhackme.com/img/THMlogo.png)
-
-
 <!-- <p align="left"> <a href="https://github.com/adigeefe"><img src="https://github-profile-trophy.vercel.app/?username=adigeefe" alt="adigeefe" /></a> </p> -->
 - 🔭 I’m currently working on [Ctfastv2](https://github.com/adigeefe/ctfastv2)
 
