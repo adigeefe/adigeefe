@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <h3 align="center">Student</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adigeefe&label=Profile%20views&color=green&style=flat" alt="adigeefe" /> </p>
-<a align="center">
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/adigeefe.png" alt="TryHackMe">
-</a>
+
 
 
 
