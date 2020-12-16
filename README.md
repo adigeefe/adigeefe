@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a align="center" href="https://tryhackme.com/p/adigeefe">
 <div style="align:center"><img width="150px" src="https://assets.tryhackme.com/img/THMlogo.png" /></div>
  </a>
-<!-- <p align="left"> <a href="https://github.com/adigeefe"><img src="https://github-profile-trophy.vercel.app/?username=adigeefe" alt="adigeefe" /></a> </p> -->
+ 
 - 🔭 I’m currently working on [Ctfastv2](https://github.com/adigeefe/ctfastv2)
 
 - 🌱 I’m currently learning **Still Python**
