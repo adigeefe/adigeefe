@@ -26,7 +26,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi There 👋, I'm adigeefe</h1>
 <h3 align="center">Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adigeefe&label=Profile%20views&color=green&style=flat" alt="adigeefe" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adigeefe&label=Profile%20views&color=green&style=flat" alt="adigeefe" /> </p>
+<a align="center">
+<script src="https://tryhackme.com/badge/119650"></script>
+</a>
+
+
 
 <!-- <p align="left"> <a href="https://github.com/adigeefe"><img src="https://github-profile-trophy.vercel.app/?username=adigeefe" alt="adigeefe" /></a> </p> -->
 - 🔭 I’m currently working on [Ctfastv2](https://github.com/adigeefe/ctfastv2)
