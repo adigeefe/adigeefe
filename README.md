@@ -31,11 +31,11 @@ Here are some ideas to get you started:
  
 - 🔭 I’m currently working on [Ctfastv2](https://github.com/adigeefe/ctfastv2)
 
-- 🌱 I’m currently learning **Still Python**
+- 🌱 I’m currently learning **C#**
 
-- 💬 Ask me about **CTF's, Algorithms**
+- 💬 Ask me about **CTF's, Algorithms, Linux, LXC**
 
-- 📫 How to reach me **nope you can't. I will reach u**
+- 📫 How to reach me **adigeefe@protonmail.com**
 
 
 ********************************
